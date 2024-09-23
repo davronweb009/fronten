@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+}
+body{
+    background: #343C56;
+  
+
+}
+.salom{
+    list-style: none;
+    display: flex;
+    gap: 25;
+    margin: auto;
+    justify-content: space-evenly;
+    margin-top: 30px;
+    text-align: center;
+    
+    
+}
+
+.aa{
+    background-color: red;
+    color: white;
+    border-radius: 30px;
+    width: 150px;
+    height: 20px;
+    padding: 14px 45px;
+}
+
+h2{
+    text-align: center;
+    color: white;
+    background-color: black;
+    border-radius: 2200px;
+    width: 200px;
+    height: 30px;
+    margin: auto;
+    padding: 14px 45px;
+
+    
+}
+.div{
+    margin-top: 3px;
+    display: flex;
+    justify-content: space-between;
+    padding: 60px;
+    text-align: center;
+    
+
+}
+.salim{
+    
+    display: flex;
+    justify-content: space-between;
+    padding: 60px;
+    text-align: center;
+    justify-content: space-around;
+    margin-top:9px;
+    
+}
+.davo{
+    margin-bottom:3px;
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+
+    
+    background-color: rgb(37, 238, 37);
+    width: 350px;
+    height: 110px;
+    text-align: center;
+    border: 30px red solid;
+    border-radius: 60px;
+
+    
+}
+.davon{
+    margin-top: 3px;
+    display: flex;
+    text-align: center;
+    padding: 40px;
+    background-color: rgb(37, 238, 37);
+    width: 350px;
+    height: 110px;
+
+    text-align: start;
+    border: 30px red solid;
+border-radius: 60px;
+
+}
+.frontend{
+    margin-right: 90px;
+}
+.davron{
+    margin-left: 90px;
+    border: 2px solid red;
+}
+
+
+
